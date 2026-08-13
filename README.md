@@ -6,6 +6,7 @@ Right now I'm mostly writing Python and TypeScript, going back and forth between
 
 **What I'm building**
 
+- [StegoX](https://github.com/PihuJain/StegoX): a multi-modal steganography app that hides messages inside images, audio and video, with AES-256 encryption and Whisper-based voice authentication on top. Built at PydroidX (Android Club, VIT Bhopal), won Best Collaboration Award. Python, Streamlit, Android.
 - [ChokeHelm](https://github.com/PihuJain/chokehelm): an autonomous controller for a production oil well that decides the choke setting every hour, balancing output against hard safety pressure limits. Steady-state optimiser under a predictive controller, validated with a 120-run randomised simulation campaign against PID and override-PI baselines. Python, NumPy, SciPy.
 - [GapstractAI](https://github.com/PihuJain/GapstractAI): an AI-assisted tool that processes research papers and helps surface the gaps in a field instead of you reading forty PDFs by hand. React, Node, PostgreSQL, OpenAI API.
 - [CleerLyst](https://github.com/PihuJain/CleerLyst): a platform for universities to publish placement results and academic data behind proper access control instead of a public spreadsheet. Next.js, PostgreSQL, NextAuth.
